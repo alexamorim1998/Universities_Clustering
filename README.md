@@ -1,6 +1,6 @@
 **Purpose**
 
-This project consisted in to grouping threw KMeans Clustering Universities into two groups: Private and Public
+This project consisted in to grouping threw KMeans Clustering, Universities into two groups: Private and Public
 
 **Technologies:**
 
